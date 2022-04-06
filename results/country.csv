@@ -1,0 +1,5 @@
+Flight Number,Launch Date,Launch Time,Launch Site,Vehicle Type,Payload Name,Payload Type,Payload Mass (kg),Payload Orbit,Customer Name,Customer Type,Customer Country,Mission Outcome,Failure Reason,Landing Type,Landing Outcome
+FT-5,27-May-16,21:39,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),Thaicom 8,Communication Satellite,3100.0,Geostationary Transfer Orbit,Thaicom,Business,Thailand,Success,,Ship,Success
+F9-8,06-Dec-14,22:06,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),Thaicom 6,Communication Satellite,3325.0,Geostationary Transfer Orbit,Thaicom,Business,Thailand,Success,,None,
+FT-6,15-Jun-16,14:29,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),ABS-2A,Communication Satellite,3600.0,Geostationary Transfer Orbit,Asia Broadcast Satellite,Business,Bermuda,Success,,Ship,Failure
+F9-16,02-Mar-15,03:50,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),ABS-3A,Communication Satellite,4159.0,Geostationary Transfer Orbit,Asia Broadcast Satellite,Business,Bermuda,Success,,None,

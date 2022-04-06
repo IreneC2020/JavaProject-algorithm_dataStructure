@@ -1,0 +1,56 @@
+Mission: 
+FlightNumber: FT-5
+Launch Date [day-month-year]: 27-May-16
+Time(hh:mm) : 21:39
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 Full Thrust (v1.2)
+Payload Name: Thaicom 8, Payload Type: Communication Satellite, Payload Mass (kg): 3100.0, Payload Orbit: Geostationary Transfer Orbit
+Customer Name: Thaicom, Customer Type: Business, Customer Country: Thailand
+MissionOutcome: Success
+FailureReason: 
+LandingType: Ship
+LandingOutcome: Success
+
+
+Mission: 
+FlightNumber: F9-8
+Launch Date [day-month-year]: 06-Dec-14
+Time(hh:mm) : 22:06
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.1)
+Payload Name: Thaicom 6, Payload Type: Communication Satellite, Payload Mass (kg): 3325.0, Payload Orbit: Geostationary Transfer Orbit
+Customer Name: Thaicom, Customer Type: Business, Customer Country: Thailand
+MissionOutcome: Success
+FailureReason: 
+LandingType: None
+LandingOutcome: 
+
+
+Mission: 
+FlightNumber: FT-6
+Launch Date [day-month-year]: 15-Jun-16
+Time(hh:mm) : 14:29
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 Full Thrust (v1.2)
+Payload Name: ABS-2A, Payload Type: Communication Satellite, Payload Mass (kg): 3600.0, Payload Orbit: Geostationary Transfer Orbit
+Customer Name: Asia Broadcast Satellite, Customer Type: Business, Customer Country: Bermuda
+MissionOutcome: Success
+FailureReason: 
+LandingType: Ship
+LandingOutcome: Failure
+
+
+Mission: 
+FlightNumber: F9-16
+Launch Date [day-month-year]: 02-Mar-15
+Time(hh:mm) : 03:50
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.1)
+Payload Name: ABS-3A, Payload Type: Communication Satellite, Payload Mass (kg): 4159.0, Payload Orbit: Geostationary Transfer Orbit
+Customer Name: Asia Broadcast Satellite, Customer Type: Business, Customer Country: Bermuda
+MissionOutcome: Success
+FailureReason: 
+LandingType: None
+LandingOutcome: 
+
+

@@ -1,0 +1,182 @@
+Mission: 
+FlightNumber: F9-2
+Launch Date [day-month-year]: 08-Dec-10
+Time(hh:mm) : 15:43
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.0)
+Payload Name: SpaceX CRS (Dragon C1), Payload Type: Space Station Supplies, Payload Mass (kg): 0.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Parachute
+LandingOutcome: Failure
+
+
+Mission: 
+FlightNumber: F9-3
+Launch Date [day-month-year]: 22-May-12
+Time(hh:mm) : 07:44
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.0)
+Payload Name: SpaceX CRS (Dragon C2+), Payload Type: Space Station Supplies, Payload Mass (kg): 0.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: 
+LandingOutcome: 
+
+
+Mission: 
+FlightNumber: F1-3
+Launch Date [day-month-year]: 03-Aug-08
+Time(hh:mm) : 03:34
+LaunchSite: Marshall Islands
+VehicleType: Falcon 1
+Payload Name: PRESat-NanoSail-D, Payload Type: Research Satellites, Payload Mass (kg): 8.0, Payload Orbit: 
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Failure
+FailureReason: Collision During Launch
+LandingType: 
+LandingOutcome: 
+
+
+Mission: 
+FlightNumber: F9-4
+Launch Date [day-month-year]: 08-Oct-12
+Time(hh:mm) : 00:35
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.0)
+Payload Name: SpaceX CRS-1, Payload Type: Space Station Supplies, Payload Mass (kg): 500.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: 
+LandingOutcome: 
+
+
+Mission: 
+FlightNumber: F9-5
+Launch Date [day-month-year]: 01-Mar-13
+Time(hh:mm) : 15:10
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.0)
+Payload Name: SpaceX CRS-2, Payload Type: Space Station Supplies, Payload Mass (kg): 677.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: 
+LandingOutcome: 
+
+
+Mission: 
+FlightNumber: F9-17
+Launch Date [day-month-year]: 14-Apr-15
+Time(hh:mm) : 20:10
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.1)
+Payload Name: SpaceX CRS-6, Payload Type: Space Station Supplies, Payload Mass (kg): 1898.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Ship
+LandingOutcome: Failure
+
+
+Mission: 
+FlightNumber: F9-19
+Launch Date [day-month-year]: 28-Jun-15
+Time(hh:mm) : 14:21
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.1)
+Payload Name: SpaceX CRS-7, Payload Type: Space Station Supplies, Payload Mass (kg): 1952.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Failure
+FailureReason: Vehicle Explosion During Flight
+LandingType: 
+LandingOutcome: 
+
+
+Mission: 
+FlightNumber: F9-13
+Launch Date [day-month-year]: 21-Sep-14
+Time(hh:mm) : 05:52
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.1)
+Payload Name: SpaceX CRS-4, Payload Type: Space Station Supplies, Payload Mass (kg): 2216.0, Payload Orbit: Geostationary Transfer Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Ocean
+LandingOutcome: Success
+
+
+Mission: 
+FlightNumber: FT-7
+Launch Date [day-month-year]: 18-Jul-16
+Time(hh:mm) : 04:45
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 Full Thrust (v1.2)
+Payload Name: SpaceX CRS-9, Payload Type: Space Station Supplies, Payload Mass (kg): 2257.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Land
+LandingOutcome: Success
+
+
+Mission: 
+FlightNumber: F9-9
+Launch Date [day-month-year]: 18-Apr-14
+Time(hh:mm) : 19:25
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.1)
+Payload Name: SpaceX CRS-3, Payload Type: Space Station Supplies, Payload Mass (kg): 2296.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Ocean
+LandingOutcome: Success
+
+
+Mission: 
+FlightNumber: F9-14
+Launch Date [day-month-year]: 10-Jan-15
+Time(hh:mm) : 09:47
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 (v1.1)
+Payload Name: SpaceX CRS-5, Payload Type: Space Station Supplies, Payload Mass (kg): 2395.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Ship
+LandingOutcome: Failure
+
+
+Mission: 
+FlightNumber: FT-11
+Launch Date [day-month-year]: 19-Feb-17
+Time(hh:mm) : 14:39
+LaunchSite: Kennedy Space Center LC-39A
+VehicleType: Falcon 9 Full Thrust (v1.2)
+Payload Name: SpaceX CRS-10, Payload Type: Space Station Supplies, Payload Mass (kg): 2490.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Land
+LandingOutcome: Success
+
+
+Mission: 
+FlightNumber: FT-3
+Launch Date [day-month-year]: 08-Apr-16
+Time(hh:mm) : 20:43
+LaunchSite: Cape Canaveral AFS LC-40
+VehicleType: Falcon 9 Full Thrust (v1.2)
+Payload Name: SpaceX CRS-8, Payload Type: Space Station Supplies, Payload Mass (kg): 3136.0, Payload Orbit: Low Earth Orbit
+Customer Name: NASA, Customer Type: Government, Customer Country: United States
+MissionOutcome: Success
+FailureReason: 
+LandingType: Ship
+LandingOutcome: Success
+
+
